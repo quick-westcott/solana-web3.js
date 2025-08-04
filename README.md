@@ -152,3 +152,6 @@ software.
 
 
 <!-- chore: bump 2025-06-14 -->
+
+
+<!-- docs: clarify 2025-08-04 -->
