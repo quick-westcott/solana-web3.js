@@ -155,3 +155,6 @@ software.
 
 
 <!-- docs: clarify 2025-08-04 -->
+
+
+<!-- style: format 2025-09-24 -->
