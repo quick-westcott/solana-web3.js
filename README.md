@@ -161,3 +161,6 @@ software.
 
 
 <!-- fix: link 2025-11-15 -->
+
+
+<!-- docs: add example 2026-01-05 -->
